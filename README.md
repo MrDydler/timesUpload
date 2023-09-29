@@ -5,6 +5,13 @@
 
 Заполянем их следующими данными по сервисам
 
+Uploads files from toggle and kaiten services to .json and writes them to postgresql
+
+To run the script, you will need to create config.txt a file in the root with .py files
+
+Fill them with the following data on services
+
+
 [POSTGRES]
 user = postgres
 password = 1337
